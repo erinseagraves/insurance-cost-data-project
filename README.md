@@ -26,8 +26,6 @@ It explores relationships between variables such as age, sex, BMI, number of chi
 
 ---
 
-## How to Use
-1. Clone or download this repository.  
-2. Open the notebook in Jupyter:  
-   ```bash
-   jupyter notebook us-medical-insurance-costs.ipynb
+## Acknowledgments
+
+Dataset and project guidelines were provided by Codecademy.  
