@@ -19,7 +19,6 @@ It explores relationships between variables such as age, sex, BMI, number of chi
 ---
 
 ## Key Goals
-- Explore and clean the medical insurance dataset.  
 - Perform statistical analysis of demographic and lifestyle factors.  
 - Visualize how features like BMI, age, and smoking status impact insurance charges.  
 - Summarize insights that could be useful for healthcare or insurance decision-making.  
