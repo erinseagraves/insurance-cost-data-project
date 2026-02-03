@@ -28,4 +28,4 @@ It explores relationships between variables such as age, sex, BMI, number of chi
 
 ## Acknowledgments
 
-Dataset and project guidelines were provided by Codecademy.  
+Dataset and project goals were provided by Codecademy.  
